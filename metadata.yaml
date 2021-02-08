@@ -1,5 +1,5 @@
 _repo: Tarzanin-poika_64377
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The son of Tarzan. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '46070'
     url: http://www.gutenberg.org/2009/agents/46070
     wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burroughs, Edgar Rice
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48
     wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64377#Tarzanin-poika
 gutenberg_issued: '2021-01-23'
 gutenberg_type: Text
 identifiers:
