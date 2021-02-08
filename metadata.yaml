@@ -1,0 +1,36 @@
+_repo: Tarzanin-poika_64377
+_version: 0.0.1
+alternative_title: The son of Tarzan. Finnish
+contributor:
+  translator:
+    agent_name: Hedman, Valfrid
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '46070'
+    url: http://www.gutenberg.org/2009/agents/46070
+    wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+creator:
+  author:
+    agent_name: Burroughs, Edgar Rice
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '48'
+    url: http://www.gutenberg.org/2009/agents/48
+    wikipedia: https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs
+description: ''
+gutenberg_issued: '2021-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64377'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tarzan (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+title: Tarzanin poika
+url: http://www.gutenberg.org/ebooks/64377
